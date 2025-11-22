@@ -79,3 +79,14 @@ PyTorch, OpenCV, Tkinter, Matplotlib
 Albumentations Data Augmentation
 
 Ultralytics YOLO, ResNet18(backbone), LSTM(sequence model)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img width="961" height="677" alt="opencv3" src="https://github.com/user-attachments/assets/a48ededa-9dfa-4cfa-9ce8-2ccf80d13cab" />
+
+이미지를 프레임으로 학습중인 과정
+
+<img width="1056" height="639" alt="opencv" src="https://github.com/user-attachments/assets/7b4a4256-33e2-45db-b99d-55b87181b951" />
+<img width="394" height="147" alt="o1pencv" src="https://github.com/user-attachments/assets/75bc09f5-5d7d-4968-9236-5b500b280893" />
+
+학습한 데이터를 바탕으로 영상의 객체가 어떤 행동인지 탐지 후 출력
+

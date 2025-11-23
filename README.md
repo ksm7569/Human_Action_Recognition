@@ -27,7 +27,6 @@ ResNet18 기반 Spatial Feature Extractor + LSTM Temporal Model 구조를 적용
 
 - LSTM:
 이 프레임들이 시간에 따라 어떻게 변하는지를 이해하는 역할.
-(초반 팔 뒤로 → 끝에 앞으로 = 스윙)
 
 - PackedSequence:
 동영상마다 프레임 길이가 다 다르기 때문에, 쓸데없이 빈 프레임까지 계산하지 않도록 효율적으로 필요한 길이만 처리하려고 사용하는 방식.
